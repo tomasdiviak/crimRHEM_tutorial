@@ -5,7 +5,7 @@ Code used for data processing, description, and RHEM modelling in Diviák, T. & 
 
 **SarcladProcessing.R**: data processing of the originally coded data (see the data for descriptive analysis above) into the eventnet format for Relational Hyperevent Model (RHEM). This produces *SarcladRHEM.csv*.
 
-**SarcladRHEM.R**, **UScooffRHEM.R**: fitting Cox Proportional Hazard to the data generated in event from the processed data files, specifically to *SarcladRHEM_EMAILS_RANDOM_SENDER.txt* (the first script), and *UScooffSubsetEventsUp_PROPERTY.txt* and *UScooffSubsetEventsUp_VIOLENCE.txt* (in the second script).
+**SarcladRHEM.R**, **UScooffRHEM.R**: fitting Cox Proportional Hazard to the data generated in event from the processed data files, specifically to *SarcladRHEM_EMAILS_RANDOM_SENDER.txt* (the first script), and *UScooffSubsetEventsUp_PROPERTY.txt* and *UScooffSubsetEventsUp_VIOLENCE.txt* (in the second script). **NOTE** - the latter two files are not in the repository because they are rather large. In case of interest, contact the main author for access.
 
 **Sarclad_configGW.txt**, **UScooff.config.txt**: configuration files for specifying the output of eventnet (for details on eventnet and RHEM in general, see [Jürgen Lerner's GitHub page](https://github.com/juergenlerner/eventnet).
 
