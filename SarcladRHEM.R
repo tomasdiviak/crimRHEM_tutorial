@@ -1,12 +1,11 @@
 ##### Relational Hyperevent Model example - Sarclad network #####
 
-# install & ůoad the package survival for fitting Cox PH models
+# install & load the package survival for fitting Cox PH models
 install.packages("survival")
 library(survival)
 
 # set the working directory
-setwd("C:/Users/msraqtd4/OneDrive - The University of 
-      Manchester/práce/postdoc/CrimNetsHandbookChapter")
+#setwd("yourDir)
 
 # read the output data of eventnet 
 events <- read.table("SarcladRHEMnew_EMAILS_RANDOM_SENDER.txt", 
