@@ -15,4 +15,3 @@ The open-source dataset, the Sarclad corruption network, is provided in its orig
 
 The US metropolitan co-offending dataset, **UScooffSubsetEventsUp.txt** is a publicly releasable subset of violent and property co-offences derived from confidential source data under a data-sharing agreement. Prior to release, identifying information and additional protected content were removed or transformed in accordance with the agreement. The original data and the preprocessing pipeline cannot be shared. However, all descriptive analyses and data processing follows the logic in **SarcladDescriptives.R** and **SarcladProcessing.R**.
 
-test
